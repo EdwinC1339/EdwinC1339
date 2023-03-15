@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdwinC1339
-- 👀 I’m interested in roller coasters, rock paper scissors, and indie music
-- 🌱 I’m currently learning C++ and Java
+- 👀 I’m interested in mathematical modeling, deep learning, and functional programming.
+- 🌱 I’m currently learning Racket
 
 <!---
 EdwinC1339/EdwinC1339 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
